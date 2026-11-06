@@ -89,7 +89,6 @@ The Excel dashboard has three pages, each with KPI cards and slicers for loan gr
 - **Borrower Risk Analysis**: default rate by age, education, employment length and marital status
 - **Loan & Financial Risk Analysis**: default rate by credit history, DTI category, loan grade and previous default on file
 
-*(Add dashboard screenshots here, for example `images/dashboard_1.png`)*
 
 ## Business Recommendations (summary)
 
